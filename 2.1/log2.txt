@@ -1,0 +1,3 @@
+23.123.444.1|Chrome|Debian
+11.235.33.11|Firefox|Manjaro
+124.23.313.18|Opera|Windows 10
