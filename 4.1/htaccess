@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^index-var1-(.*)-var2-(.*)-var3-(.*).html$ get.php?var1=$1&var2=$2&var3=$3 [L] 
